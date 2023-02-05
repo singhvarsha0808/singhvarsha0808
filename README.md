@@ -16,7 +16,7 @@
 
 * 💻 Currently working as a Data Science Intern @[Munich Re](https://www.munichre.com/en.html) Singapore.
 
-* 🧑‍💼 Former Software Development Specialist @[Amdocs](https://www.amdocs.com/) (2015 to 2021).
+* 🧑‍💼 Former Software Development Specialist @[Amdocs](https://www.amdocs.com/) (2016 to 2021).
 
 * 🎓 Graduate Student Researcher @National University of Singapore.
 
