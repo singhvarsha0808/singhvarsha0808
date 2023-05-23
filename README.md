@@ -19,7 +19,7 @@
 
 * 🧑‍🎓 Pursuing Master's in Information Systems & Analytics @ [National University of Singapore](https://www.comp.nus.edu.sg/). 
 
-* 💻 Currently working as a Data Science Intern @[Munich Re](https://www.munichre.com/en.html) Singapore.
+* 💻 Currently working as AI & Data Scientist @[Temus](https://www.temus.com/) Singapore.
 
 * 🧑‍💼 Former Software Development Specialist @[Amdocs](https://www.amdocs.com/) (2016 to 2021).
 
