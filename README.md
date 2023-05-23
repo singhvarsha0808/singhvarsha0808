@@ -12,6 +12,9 @@
 <a href="https://medium.com/@varshasi">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">
 </a>
+<a href="https://public.tableau.com/app/profile/varsha.singh5648">
+    <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white">
+</a>    
 <br/>
 
 * 🧑‍🎓 Pursuing Master's in Information Systems & Analytics @ [National University of Singapore](https://www.comp.nus.edu.sg/). 
