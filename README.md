@@ -17,7 +17,7 @@
 </a>    
 <br/>
 
-* 🧑‍🎓 Pursuing Master's in Information Systems & Analytics @ [National University of Singapore](https://www.comp.nus.edu.sg/). 
+* 🧑‍🎓 Master's in Information Systems & Analytics @ [National University of Singapore](https://www.comp.nus.edu.sg/). 
 
 * 💻 Currently working as AI & Data Scientist @[Temus](https://www.temus.com/) Singapore.
 
