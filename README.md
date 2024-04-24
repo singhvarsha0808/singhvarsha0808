@@ -1,7 +1,5 @@
 <p align="center">
-<a href="https://github.com/singhvarsha0808">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=2000&multiline=true&width=930&height=200&lines=Varsha+Singh;Master's+student+%7C+Data+Science+Enthusiast+%7C+Data+Analyst%7C+Software+Developer;Data+Science+%7C+Machine+Learning+%7C+Explainable+AI+%7C+Telecom+BSS;National+University+of+Singapore+%7C+Munich+Re+%7C+Ex+-Amdocs+%7C+Ex-Oracle" alt="Typing SVG" />
-</a>
+
 <br/>
 <a href="https://www.linkedin.com/in/varshasi/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
@@ -19,7 +17,7 @@
 
 * 🧑‍🎓 Master's in Information Systems & Analytics @ [National University of Singapore](https://www.comp.nus.edu.sg/). 
 
-* 💻 Currently working as AI & Data Scientist @[Temus](https://www.temus.com/) Singapore.
+* 💻 Currently working as Data Scientist @[Temus](https://www.temus.com/) Singapore.
 
 * 🧑‍💼 Former Software Development Specialist @[Amdocs](https://www.amdocs.com/) (2016 to 2021).
 
